@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Daria Zolotukhina, Backend Engineer specializing in Java backend development, enterprise platforms, and distributed systems",
   icons: {
-    icon: "/images/favi.png",
+    icon: "/favicon.png",
   },
   generator: 'v0.dev'
 }
