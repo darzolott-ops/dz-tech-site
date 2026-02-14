@@ -11,7 +11,10 @@ export const metadata: Metadata = {
   title: "Daria Zolotukhina | Backend Engineer",
   description:
     "Portfolio of Daria Zolotukhina, Backend Engineer specializing in Java backend development, enterprise platforms, and distributed systems",
-    generator: 'v0.dev'
+  icons: {
+    icon: "/images/favi.png",
+  },
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
